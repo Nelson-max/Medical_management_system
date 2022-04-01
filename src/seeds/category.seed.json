@@ -1,0 +1,81 @@
+[
+  {
+        "_id": "6231e1d39f6970fb3c9141a2",
+        "name": "liquid/syrup",
+        "code": "R03CC02",
+        "desc": ". A liquid may also be called a ‘mixture’, ‘solution’ or ‘syrup’. Many common liquids are now available without any added colouring or sugar. ",
+        "addedBy": "6229cc593a5dd59b657e5242",
+        "createdAt": "2022-03-16T13:10:43.336Z",
+        "updatedAt": "2022-03-16T13:28:20.831Z",
+        "__v": 0
+    },
+    {
+        "_id": "6231e4831a2fed14741ed5eb",
+        "name": "tablets",
+        "code": "OSD",
+        "desc": "The active ingredient is combined with another substance and pressed into a round or oval solid shape. ",
+        "addedBy": "6229cc593a5dd59b657e5242",
+        "createdAt": "2022-03-16T13:22:11.054Z",
+        "updatedAt": "2022-03-16T13:31:47.835Z",
+        "__v": 0
+    },
+    {
+        "name": "Capsules",
+        "code": "POM",
+        "desc": "The active part of the medicine is contained inside a plastic shell that dissolves slowly in the stomach.  ",
+        "addedBy": "6229cc593a5dd59b657e5242",
+        "_id": "6231e743dfc8bb40c0dd416d",
+        "createdAt": "2022-03-16T13:33:55.258Z",
+        "updatedAt": "2022-03-16T13:33:55.258Z",
+        "__v": 0
+    },
+    {
+        "name": "Suppositories",
+        "code": "N02BE01",
+        "desc": "The active part of the medicine is combined with another substance and pressed into a ‘bullet shape’ so it can be inserted into the bottom. Suppositories mustn't be swallowed.  ",
+        "addedBy": "6229cc593a5dd59b657e5242",
+        "_id": "6231e9055f1cd54479bcf103",
+        "createdAt": "2022-03-16T13:41:25.986Z",
+        "updatedAt": "2022-03-16T13:41:25.986Z",
+        "__v": 0
+    },
+    {
+        "name": "Drops",
+        "code": "S02AA01",
+        "desc": "These are often used where the active part of the medicine works best if it reaches the affected area directly. They tend to be used for eye, ear or nose. ",
+        "addedBy": "6229cc593a5dd59b657e5242",
+        "_id": "6231e9c6fd06e5c573509874",
+        "createdAt": "2022-03-16T13:44:38.509Z",
+        "updatedAt": "2022-03-16T13:44:38.509Z",
+        "__v": 0
+    },
+    {
+        "name": "Inhalers",
+        "code": "POMI",
+        "desc": "The active part of the medicine is released under pressure directly into the lungs. Young children may need to use a ‘spacer’ device to take the medicine properly.  ",
+        "addedBy": "6229cc593a5dd59b657e5242",
+        "_id": "6231ea38d0c4c241bf13e518",
+        "createdAt": "2022-03-16T13:46:32.509Z",
+        "updatedAt": "2022-03-16T13:46:32.509Z",
+        "__v": 0
+    },
+    {
+        "name": "Injections",
+        "code": "inj",
+        "desc": "There are different types of injection, in how and where they're injected. Subcutaneous or SC injections are given just under the surface of the skin.   ",
+        "addedBy": "6229cc593a5dd59b657e5242",
+        "_id": "6231ed7eefa4cae24068a199",
+        "createdAt": "2022-03-16T14:00:30.639Z",
+        "updatedAt": "2022-03-16T14:00:30.639Z",
+        "__v": 0
+    },
+    {
+        "name": "Implants/patches",
+        "desc": "These medicines are absorbed through the skin, such as nicotine patches for help in giving up smoking, or contraceptive implants. ",
+        "addedBy": "6229cc593a5dd59b657e5242",
+        "_id": "6231edc7138b429b429fa6ec",
+        "createdAt": "2022-03-16T14:01:43.101Z",
+        "updatedAt": "2022-03-16T14:01:43.101Z",
+        "__v": 0
+    }
+]
